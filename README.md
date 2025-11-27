@@ -20,6 +20,7 @@ Find the fastest runner. Print the name and his/her time (in minutes).
  The libraries of SmallTownX need a new electronic rental system, and it is up to you to build it. SmallTownX has two 
 libraries. Each library offers many books to rent. Customers can print the list of available books, borrow, and return 
 books.This project can implement a simple library system, with functions including address output, business hours output, storing books, borrowing books, and returning books.
+I expect to We refine the design to make it clearer and more practical.
 
 
 
